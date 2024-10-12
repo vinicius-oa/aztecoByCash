@@ -15,3 +15,5 @@ payments for their services. The data is based on the information available on t
 | _Chile_ | https://azte.co/buy/azteco?country=CHL&_rsc=aaejq |
 | _Guatemala_ | https://azte.co/buy/azteco?country=GTM&_rsc=aaejq |
 
+### Why archived?
+In _2024_ I got a bit deeper into understanding Bitcoin at the protocol level, its history, and its community, and I concluded that it failed for having diverged from its principles. I also highly recommend reading the book Hijacking Bitcoin.
